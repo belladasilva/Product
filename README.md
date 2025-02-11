@@ -11,7 +11,6 @@ A **C++ program** that simulates an **automated checkout system** for a store us
 ✅ **Polymorphism** – Implements a polymorphic function to call `show()` dynamically  
 ✅ **Barcode-Based Discount System** – Detects discounts using barcode & unit price logic  
 ✅ **User Input Validation** – Ensures correct data input with loops & error handling  
-✅ **File Handling** – Supports reading/writing product data (if implemented)  
 
 ---
 
@@ -47,5 +46,19 @@ Enter product details (name, barcode, unit price, weight if applicable).
 The program will determine if the product is discounted based on the barcode/unit price.
 The show() function will display product details, using polymorphism when appropriate.
 ```
+
+## 📌 Known Issues (Planned Fixes)
+⚠ Formatting Issue: Some outputs may be missing spaces between words.
+⚠ Double Input Prompts: The barcode and product name may be asked twice in some cases.
+⚠ Zero Pricing Bug: Some products may default to 0 unit price.
+
+💡 These are minor issues that will be fixed in a future update. The core functionality is working!
+
+
+## 📩 Contact
+For more about me, check out my **GitHub Profile README**:  
+🔗 [github.com/belladasilva](https://github.com/belladasilva)
+
+⭐ If you like this project, give it a star on GitHub! 🌟
 
 
